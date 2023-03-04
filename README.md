@@ -27,4 +27,4 @@ https://www.digitaltrends.com/gaming/famous-cheat-codes-in-video-games/  <br />
 14. A ‘boss key’, we shouldn’t play games at work. Some games introduced a boss key which allowed
 the game to flip to an image that gave the impression that the player was doing something work
 related quickly.
-https://en.wikipedia.org/wiki/Boss key <br />
+https://en.wikipedia.org/wiki/Boss_key <br />
